@@ -1,3 +1,42 @@
 The Fool, this card represents innocence, new beginnings, and free spirit. |
+Reverse Fool, this card represents recklessness, taken advantage of, inconsideration. |
 The Magician, this card represents will power, desire, creation, and manifestation. |
-The High 
+Reverse Magician, this card represents trickery, illusions, out of touch. |
+The High Priestess, this card represents intuitive, unconscious, inner voice. |
+Reverse High Priestess, this card represents lack of center, lost inner voice, repressed feelings. |
+The Empress, this card represents motherhood, fertility and nature. |
+Reverse Empress, this card represents dependence, smothering, emptiness, nosiness. |
+The Emperor, this card represents authority, control and fatherhood. |
+Reverse Emperor, this card represents tyranny, rigidity, coldness. |
+The Hierophant, this card represents tradition, conformity, morality, and ethics. |
+Reverse Hierophant, this card represents rebellion, subversiveness, new approaches. |
+The Lovers, this card represents partnerships, duality, union. |
+Reverse Lovers, this card represents loss of balance, one-sidedness, disharmony. |
+The Chariot, this card represents direction, control, willpower. |
+Reverse Chariot, this card represents lack of control, lack of direction, aggression. |
+Strength, this card represents inner strength, bravery, compassion, focus. |
+Reverse Strength, this card represents doubt, weakness, insecurity. |
+The Hermit, this card represents contemplation, search for truth, inner guidance. |
+Reverse Hermit, this card represents loneliness, isolation, lost your way. |
+The Wheel, this card represents change, cycles, inevitable fate. |
+Reverse Wheel, this card represents no control, clinging to control, bad luck. |
+Justice, this card represents cause and effect, clarity, truth. |
+Reverse Justice, this card represents dishonesty, unaccountability, unfairness. |
+The Hanged Man, this card represents sacrifice, release, martyrdom. |
+Reverse Hanged Man, this card represents stalling, needless sacrifice, fear of sacrifice. |
+Death, this card represents end of cycle, beginnings, change, metamorphosis. |
+Reverse Death, this card represents fear of change, holding on, stagnation, decay.  |
+The Devil, this card represents addiction, materialism, playfulness. |
+Reverse Devil, this card represents  freedom, release, restoring control. |
+The Tower, this card represents sudden upheaval, broken pride, disaster. |
+Reverse Tower, this card represents disaster avoided, delayed disaster, fear of suffering. |
+The Star, this card represents hope, faith, rejuvenation. |
+Reverse Star, this card represents faithlessness, discouragement, insecurity. |
+The Moon, this card represents unconscious, illusions, intuition. |
+Reverse Moon, this card represents confusion, fear, misinterpretation. |
+The Sun, this card represents joy, success, celebration, positivity. |
+Reverse Sun, this card represents negativity, depression, sadness. |
+Judgement, this card represents reflection, reckoning, awakening. |
+Reverse Judgement, this card represents lack of self awareness, doubt, self loathing. |
+The World, this card represents fulfillment, harmony, completion. |
+Reverse World, this card represents incompletion, no closure. |
